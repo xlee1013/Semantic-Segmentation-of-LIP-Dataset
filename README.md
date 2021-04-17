@@ -1,5 +1,13 @@
 # Semantic-Segmentation-of-LIP-Dataset
-This project hosts the code for implementing the FCN algorithm for Semantic Segmentation.
+This project hosts the code for implementing the FCN algorithm using **PyTorch** for Semantic Segmentation.
+
+### LIP Dataset
+
+Look into Person (LIP) is a new large-scale dataset, focus on semantic understanding of person. 
+
+An overview of the LIP dataset can be found from [the official website](http://sysu-hcp.net/lip/overview.php) . 
+
+Download the LIP dataset from  [Google Drive](https://drive.google.com/drive/folders/0BzvH3bSnp3E9ZW9paE9kdkJtM3M?usp=sharing) or [Baidu Drive](http://pan.baidu.com/s/1nvqmZBN) .
 
 ### Dataset directory
 
