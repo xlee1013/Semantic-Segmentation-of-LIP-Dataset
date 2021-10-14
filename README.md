@@ -61,5 +61,5 @@ python test.py
 
 ### reference
 
-This code refers to  [EMANet](https://github.com/XiaLiPKU/EMANet) or [FCN](https://github.com/Charmve/Semantic-Segmentation-PyTorch) .
+This code refers to  [EMANet](https://github.com/XiaLiPKU/EMANet) and [FCN](https://github.com/Charmve/Semantic-Segmentation-PyTorch) .
 
